@@ -15,7 +15,7 @@ Enable businesses to gain a 360° view of customers by analyzing:
 - **Power BI** – for visualizations and DAX
 - **DAX** – for calculated return rates and KPIs
 
-## 📈 Dashboard Visuals
+## Dashboard Visuals
 - Total Revenue KPI
 - Top 5 Customers by Spend
 - Payment Method Pie Chart
